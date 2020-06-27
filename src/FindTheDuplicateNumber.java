@@ -1,5 +1,5 @@
 /*
-Runtime: 2 ms, faster than 48.68% of Java online submissions for String Matching in an Array.
+Runtime: 2 ms, faster than 48.68% of Java online submissions for Find the Duplicate Number.
 Memory Usage: 40.5 MB, less than 25.73% of Java online submissions for Find the Duplicate Number.
 */
 

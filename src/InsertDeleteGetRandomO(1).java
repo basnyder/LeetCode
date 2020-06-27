@@ -1,3 +1,8 @@
+/*
+Runtime: 191 ms, faster than 10.95% of Java online submissions for Insert Delete GetRandom O(1).
+Memory Usage: 43.1 MB, less than 99.63% of Java online submissions for Insert Delete GetRandom O(1).
+*/
+
 class RandomizedSet {
     List<Integer> list;
     Random rand;

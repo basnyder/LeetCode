@@ -1,5 +1,5 @@
 /*
-Runtime: 0 ms, faster than 100.00% of Java online submissions for String Matching in an Array.
+Runtime: 0 ms, faster than 100.00% of Java online submissions for Count Complete Tree Nodes.
 Memory Usage: 41.5 MB, less than 99.15% of Java online submissions for Count Complete Tree Nodes.
 */
 

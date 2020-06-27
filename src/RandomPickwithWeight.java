@@ -1,6 +1,6 @@
 /*
 Runtime: 92 ms, faster than 14.93%
-Memory Usage: 43.3 MB, less than 94.80%
+Memory Usage: 43.3 MB, less than 94.80%s
 */
 
 class Solution {
