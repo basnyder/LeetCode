@@ -1,6 +1,6 @@
 /*
-Runtime: 60 ms, faster than 5.04% of Java online submissions for Find All Duplicates in an Array.
-Memory Usage: 77.2 MB, less than 5.01% of Java online submissions for Find All Duplicates in an Array.
+Runtime: 31 ms, faster than 6.75% of Java online submissions for Find All Duplicates in an Array.
+Memory Usage: 47.8 MB, less than 95.05% of Java online submissions for Find All Duplicates in an Array.
 */
 
 class Solution {
